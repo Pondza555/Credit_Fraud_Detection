@@ -5,7 +5,7 @@
 #### - The dataset has been collected and analyzed during a research collaboration of Worldline and the Machine Learning Group ([http://mlg.ulb.ac.be](http://mlg.ulb.ac.be/)) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 ### 2. What is my objective?
 #### - Create classification model to classify fraudulent transactions
-####- Focus on catch thieves while balance the precision of the model
-####- What business get?
+#### - Focus on catch thieves while balance the precision of the model
+#### - What business get?
 #####    - Implement real-time fraud detection models to prevent fraud.
 #####    - Catch more thieves and reduce financial damage
