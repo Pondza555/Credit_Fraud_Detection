@@ -6,6 +6,6 @@
 ### 2. What is my objective?
 #### - Create classification model to classify fraudulent transactions
 #### - Focus on catch thieves while balance the precision of the model
-#### 3. What business get?
+### 3. What business get?
 #### - Implement real-time fraud detection models to prevent fraud.
 #### - Catch more thieves and reduce financial damage
